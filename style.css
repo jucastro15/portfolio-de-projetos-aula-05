@@ -100,3 +100,26 @@ main h2 {
 .btn-primary:hover {
     background-color: #4B1972;
 }
+
+footer {
+    background-color: #4B1972;
+    color: #FDF7FE;
+    text-align: center;
+    padding: 30px 20px;
+    margin-top: 60px;
+    font-size: 1rem;
+    font-weight: 500;
+    border-top: 4px solid #841B86;
+}
+
+footer a {
+    color: #E5DBEB;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+    transition: 0.3s ease;
+}
